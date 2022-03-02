@@ -1,10 +1,10 @@
 # Desenv-de-Sistemas-1
 Atv Desenvolvimento de Sistemas
-1. O problema ou oportunidade percebida
+1. O problema ou oportunidade percebida 
   Redes Neurais demoram para evoluir e o programador quase que com certeza vai minimizar sua visualização dela e ir trabalhar em outra coisa, ter a evolução dela mapeada no celular auxilia na visualização dela e não prende o programador no programa ou em ter que ficar olhando o tempo todo.
-2. A razão ou justificativa para esta demanda
+2. A razão ou justificativa para esta demanda 
    Poder visualizar o trabalho e evolução da rede neural por meio do celular.
-3. A descrição sucinta do produto de software que será produzido
+3. A descrição sucinta do produto de software que será produzido 
    O produto acompanha o trabalho da rede neural e acompanha a evolução do grupo e monitora a rede neural mais destacada no momento
 4. Identifique os clientes, usuários e demais envolvidos/impactados com o produto
    Empresas de machine learning ou que trabalham com redes neurais de forma próxima ou não.
